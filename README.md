@@ -295,15 +295,13 @@ Akun berikut tersedia dari data awal dan hanya untuk keperluan demo lokal.
 
 ## Screenshot
 
-> Tambahkan screenshot di folder `docs/screenshots/` lalu ganti tautan di bawah.
-
 | Login | Dashboard |
 |---|---|
 | ![Login](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/dashboard.png) |
 
 | Inventory | Cek Resi |
 |---|---|
-| ![Inventory](docs/screenshots/inventory.png) | ![Tracking](docs/screenshots/tracking.png) |
+| ![Inventory](docs/screenshots/inventory.png) | ![Tracking](docs/screenshots/tracking_api.jpeg) |
 
 ---
 
@@ -332,4 +330,4 @@ Bagian ini sengaja ditulis jujur agar jelas mana yang masih bisa diperbaiki.
 
 ## Lisensi
 
-Proyek ini dibuat untuk keperluan pembelajaran dan portofolio. Tambahkan berkas `LICENSE` (misalnya MIT) bila ingin dibagikan secara terbuka.
+Hak cipta © 2026 Raden Bagus Indra Wijaya Nugraha, Robby Arroyan Nur Hakim, dan Vicko Bachtiar Nurrahmat. Proyek ini dibuat untuk keperluan pembelajaran dan portofolio.
