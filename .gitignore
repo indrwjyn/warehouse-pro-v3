@@ -1,0 +1,19 @@
+# Repo nested di dalam php/ (hapus, pakai satu repo di root)
+php/.git/
+
+# Upload pengguna (folder dijaga lewat .gitkeep)
+php/uploads/avatars/*
+php/uploads/products/*
+!php/uploads/avatars/.gitkeep
+!php/uploads/products/.gitkeep
+
+# Rahasia dan lingkungan lokal
+.env
+*.env
+config.local.php
+
+# File sistem dan editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
