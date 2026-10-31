@@ -303,7 +303,7 @@ Akun berikut tersedia dari data awal dan hanya untuk keperluan demo lokal.
 
 | Inventory | Cek Resi |
 |---|---|
-| ![Inventory](docs/screenshots/inventory.png) | ![Tracking](docs/screenshots/tracking_api.jpeg) |
+| ![Inventory](docs/screenshots/inventory.png) | ![Tracking](docs/screenshots/tracking_api.png) |
 
 ---
 
