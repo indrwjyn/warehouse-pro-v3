@@ -137,7 +137,8 @@ warehouse_pro_v3/
 ├── docs/screenshots/          # Screenshot untuk README
 ├── warehouse_pro.sql          # Skema database dan data awal
 ├── .gitignore
-└── README.md
+├── README.md
+└── README.en.md
 ```
 
 ---
