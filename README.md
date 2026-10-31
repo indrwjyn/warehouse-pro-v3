@@ -1,3 +1,5 @@
+🇬🇧 [Read in English](README.en.md)
+
 # Local Warehouse Tracking (Warehouse Pro v3)
 
 Sistem informasi manajemen gudang berbasis web untuk mencatat barang masuk, barang keluar, lokasi rak, dan pelacakan resi pengiriman dalam satu dashboard. Dibangun dengan PHP native, MySQL/MariaDB, dan JavaScript murni, dengan pembagian hak akses berdasarkan role.
