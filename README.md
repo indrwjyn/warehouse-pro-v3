@@ -316,6 +316,7 @@ Akun berikut tersedia dari data awal dan hanya untuk keperluan demo lokal.
 ---
 
 ## Keterbatasan dan Rencana Pengembangan
+Beberapa hal yang masih bisa ditingkatkan pada versi berikutnya:
 
 
 - [ ] Aksi hapus masih memakai link GET. Perlu diganti ke POST dengan token CSRF.
