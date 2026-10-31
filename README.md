@@ -279,7 +279,6 @@ Contoh di Apache (`httpd.conf` atau `.htaccess`):
 SetEnv BINDERBYTE_API_KEY "isi_api_key_kamu"
 ```
 
-Jangan menulis API key langsung di source code dan jangan meng-commit-nya ke repository.
 
 ### Akun Demo
 
