@@ -317,7 +317,6 @@ Akun berikut tersedia dari data awal dan hanya untuk keperluan demo lokal.
 
 ## Keterbatasan dan Rencana Pengembangan
 
-Bagian ini sengaja ditulis jujur agar jelas mana yang masih bisa diperbaiki.
 
 - [ ] Aksi hapus masih memakai link GET. Perlu diganti ke POST dengan token CSRF.
 - [ ] Belum ada pagination pada laporan dan batas tampilan masih 500 baris.
