@@ -1,4 +1,4 @@
-🇬🇧 [Read in English](README.en.md)
+🇮🇩 Bahasa Indonesia | [🇬🇧 English](README.en.md)
 
 # Local Warehouse Tracking (Warehouse Pro v3)
 
