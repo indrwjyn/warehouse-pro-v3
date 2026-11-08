@@ -311,9 +311,11 @@ Akun berikut tersedia dari data awal dan hanya untuk keperluan demo lokal.
 
 | Nama | Tanggung jawab |
 |---|---|
-| **Raden Bagus Indra Wijaya Nugraha** | Logika JavaScript, database SQL, konfigurasi PHP (`config/`), modul `inventory` dan `categories` |
+| **Raden Bagus Indra Wijaya Nugraha** | Ide proyek, logika JavaScript, database SQL, konfigurasi PHP (`config/`), modul `inventory` dan `categories` |
 | **Robby Arroyan Nur Hakim** | Autentikasi (`auth/`), layout, modul `dashboard`, `tracking`, dan `tracking_api` |
 | **Vicko Bachtiar Nurrahmat** | Styling CSS, fitur upload (`uploads/`), modul `product_search`, `produk`, `storage_locations`, dan `users` |
+
+Ide dan konsep awal proyek ini berasal dari Raden Bagus Indra Wijaya Nugraha, lalu dikembangkan bersama oleh tim.
 
 ---
 

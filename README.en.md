@@ -312,9 +312,11 @@ These accounts come from the seed data and are for local demo purposes only.
 
 | Name | Responsibilities |
 |---|---|
-| **Raden Bagus Indra Wijaya Nugraha** | JavaScript logic, SQL database, PHP configuration (`config/`), `inventory` and `categories` modules |
+| **Raden Bagus Indra Wijaya Nugraha** | Project idea, JavaScript logic, SQL database, PHP configuration (`config/`), `inventory` and `categories` modules |
 | **Robby Arroyan Nur Hakim** | Authentication (`auth/`), layout, `dashboard`, `tracking`, and `tracking_api` modules |
 | **Vicko Bachtiar Nurrahmat** | CSS styling, upload features (`uploads/`), `product_search`, `produk`, `storage_locations`, and `users` modules |
+
+The idea and initial concept for this project came from Raden Bagus Indra Wijaya Nugraha, and the team then developed it together.
 
 ---
 
